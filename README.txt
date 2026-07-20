@@ -1,4 +1,4 @@
-SainiRide.com — Website Folder
+SainiQuickCabs.com — Website Folder
 ====================================
 
 IS FOLDER CH KI KI HAI:
@@ -12,7 +12,7 @@ IS FOLDER CH KI KI HAI:
 
 LOCAL TEST KIven KARNI (Laptop te):
 ------------------------------------
-1. Eh sara folder Desktop te rakh lao (jiven "SainiRide-Website" naam naal).
+1. Eh sara folder Desktop te rakh lao (jiven "SainiQuickCabs-Website" naam naal).
 2. index.html te double-click karo — eh apne aap browser (Chrome/Edge) ch khul javega.
 3. Booking form bhar ke test karo. Agar internet chalu hai, EmailJS naal email vi
    chali javegi. Agar EmailJS fail ho jaave ya internet na hove, form apne aap
@@ -39,7 +39,7 @@ AGE KI KARNA (BAAD CH):
 - Jado local test ho jaave te sab theek lagge, tan eh files GitHub Pages te
   upload kar sakde ho (pehla vaangu — files ik-ik karke upload karna, folder
   drag-drop nahi karna).
-- Agar SainiRide.com jaan koi hor domain naal jodna hove, tan sirf DNS/domain
+- Agar SainiQuickCabs.com jaan koi hor domain naal jodna hove, tan sirf DNS/domain
   connect karna painda hai — code ch koi change nahi chahida.
 
 Koi vi sawaal hove ta puch lena — eh sab modular banaya hai taan jo tusi khud
